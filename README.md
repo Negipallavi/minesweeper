@@ -44,7 +44,7 @@ INSTRUCTIONS
 - [![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)] (https://linkedin.com/in/geekdude)
 [![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
 
-- [![Linkedin: Kunal Upadhyay](https://img.shields.io/badge/-Kunal_Upadhyay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalupadhyayofficial)] (https://www.linkedin.com/in/kunalupadhyayofficial)
+- [![Linkedin: Kunal Upadhyay](https://img.shields.io/badge/-Kunal_Upadhyay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalupadhyayofficial)](https://www.linkedin.com/in/kunalupadhyayofficial)
 
 <br>
 
