@@ -11,6 +11,7 @@
 A simple command-line implementation of the classic Minesweeper game written in C. The goal is to uncover all cells on an 8x8 grid without hitting any mines.
 
 <br>
+
 ## Description
 
 In this Minesweeper game, players interact with an 8x8 grid containing 10 randomly placed mines. Players can reveal cells by entering their coordinates, and the game provides hints about the number of adjacent mines.
@@ -32,7 +33,7 @@ INSTRUCTIONS
 <br>
 
 # DOWNLOAD
-- <a href="https://github.com/Negipallavi/minesweeperr/releases/tag/trial">Click here</a>
+- <a href="https://github.com/Negipallavi/minesweeper/releases/download/trial/minesweeperr.exe">Click here</a>
 - **Run**: The .exe file would be downloaded in your computer system. Click **Run** if prompted by security warnings.
 - **Ready**: The game should  be opened in your terminal.
 
