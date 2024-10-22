@@ -45,7 +45,7 @@ INSTRUCTIONS
 [![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
 
 - [![Linkedin: Kunal Upadhyay](https://img.shields.io/badge/-Kunal_Upadhyay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalupadhyayofficial)](https://www.linkedin.com/in/kunalupadhyayofficial)
-
+[![GitHub Kunal Upadhyay ](https://img.shields.io/github/followers/kunal?label=follow&style=social)](https://github.com/Kunal-Upadhyay)
 <br>
 
 # Developer
